@@ -2,6 +2,8 @@
 
 THIS APP is an exercice from Freecode csmp academy 
 while learning i hav to practice along with the instructor.
+!!!!!
+ All the credit going to the Zackgoll Witzer who i nspired me on this building up i follow all the step thru!!!
 
   MY FAILING JAVASCRPT CODE
   -------------------------
